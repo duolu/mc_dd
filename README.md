@@ -11,6 +11,6 @@ The code is pretty rough right now. It will be improved in the coming months...
 
 ## Papers
 
-* Duo Lu, Zhichao Li, and Dijiang Huang. "Platooning as a service of autonomous vehicles." WoWMoM 2017 Workshop. [[paper]](http://ieeexplore.ieee.org/document/7974353/) [[presentation]](https://docs.google.com/presentation/d/1ieDpPTFSl7oQEltRWKUdFP2ruUzMP9AV5MtwXYDu2Kc/edit?usp=sharing)
+* Duo Lu, Zhichao Li, and Dijiang Huang. "Platooning as a service of autonomous vehicles." WoWMoM 2017 Workshop. [[paper]](http://ieeexplore.ieee.org/document/7974353/) [[slides]](https://docs.google.com/presentation/d/1ieDpPTFSl7oQEltRWKUdFP2ruUzMP9AV5MtwXYDu2Kc/edit?usp=sharing)
 * Zhichao Li, "Modeling and Control of a Longitudinal Platoon of Ground Robotic Vehicles." Master Thesis. Arizona State University. [[paper]](https://search.proquest.com/docview/1836823728)
 
