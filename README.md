@@ -2,6 +2,8 @@
 
 Low level (Arduino) motion control of a differential drive robot. MC means motion control, DD means differential drive. There will be another RD (rear wheel) drive version.
 
+The code is pretty rough right now. It will be improved in the coming months...
+
 ## Hardware Platform
 
 * [BOM](https://docs.google.com/document/d/10zGEh4VtFCSjgqvODvncWeysv7zEoIJzT93puMjv0hE/edit?usp=sharing)
